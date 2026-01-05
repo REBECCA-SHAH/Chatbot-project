@@ -8,8 +8,10 @@ const chatbotToggler = document.querySelector("#chatbot-toggler");
 const closeChatbot= document.querySelector("#close-chatbot");
 
 // API setup
-const API_KEY = "AIzaSyCwnLuy9k0Y69hNUvhAgrfKpOmf1tHdVAs"; // ✅ removed leading space
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`; // ✅ removed trailing space
+const API_KEY = "AIzaSyAWQwpaiujg0kz1ypDagDZJ0zFiL_TOEo0"; // ✅ removed leading space
+const API_URL =
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=" + API_KEY;
+// ✅ removed trailing space
 const userData = {
   message: null,
   file: {
