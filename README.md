@@ -1,0 +1,1 @@
+This project is a simple web-based chatbot interface that integrates with Google’s Gemini generative language API. It allows users to send text messages through a user-friendly chat UI and receive AI-generated responses in real-time.
