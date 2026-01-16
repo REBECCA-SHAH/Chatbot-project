@@ -45,5 +45,5 @@ Multi-language support
 
 Voice-based interaction
 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/81b10591-ccbe-4fe7-900e-0c95db328f72" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/81b10591-ccbe-4fe7-900e-0c95db328f72" />
 
